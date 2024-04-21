@@ -1,5 +1,5 @@
 {
-    "name": "laberinto_completo",
+    "name": "laberinto_base",
     "description": "",
     "dependencies": {
         "device": "*"
